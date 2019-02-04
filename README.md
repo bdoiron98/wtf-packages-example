@@ -2,9 +2,8 @@
 title: "Practice Read Me"
 author: "Me"
 date: "2/4/2019"
-output: 
-  html_document: 
-    keep_md: yes
+output: github_document
+
 ---
 
 
